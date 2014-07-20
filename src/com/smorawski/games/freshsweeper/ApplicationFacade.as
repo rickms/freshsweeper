@@ -17,7 +17,7 @@ package com.smorawski.games.freshsweeper {
 	 * @author Rick Smorawski
 	 */
 	public class ApplicationFacade extends Facade {
-		public static const NAME		:String = "PlanetSweeper";
+		public static const NAME		:String = "FreshSweeper";
 		
 		public function ApplicationFacade(key:String){
 			super(key);
